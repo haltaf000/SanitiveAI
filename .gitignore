@@ -20,3 +20,9 @@ db.sqlite3
 
 # Environment files
 .env
+
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
