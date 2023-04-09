@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: transparent;
+  color: #000000;
+  bottom: 0;
+  width: 100%;
+  font-family: 'Lato', sans-serif;
+  border-top: 1px solid black;
+}
+
+.footer p {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+
+}
+
+.footer ul {
+  display: flex;
+  gap: 1rem;
+  list-style-type: none;
+  padding: 0;
+}
